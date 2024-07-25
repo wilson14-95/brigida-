@@ -1,0 +1,45 @@
+body { 
+
+background-color: blueviolet;
+
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #71f107;
+    padding: 20px;
+    text-align: center;
+    flex: 10;
+}
+
+h1 {
+    margin-top: 0;
+}
+
+section {
+    padding: 20px;
+    
+}
+
+h2 {
+    margin-top: 0;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+header p{
+      font-style: italic;
+      margin-top: 0;
+}
+footer{
+    font-size: medium;
+   color: ·#666;
+}
